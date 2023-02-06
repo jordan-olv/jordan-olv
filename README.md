@@ -24,7 +24,6 @@
 <br/>  
 
 
-## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on my profil
