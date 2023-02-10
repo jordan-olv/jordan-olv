@@ -11,13 +11,10 @@
 
 <br>
 
-> - Développeur à en venir !
- > 
-> - Actuellement en formation Développeur Web / Web Mobile et principalement Auto-didacte. 
- >
-> - Mon site [link](https://jordanolivier.com)
- >
-> - En recherche d'un stage pour la période du XX au XX, [Mon CV](https://read.cv/0xabdulkhalid)
+- Développeur à en venir !
+- Actuellement en formation Développeur Web / Web Mobile et principalement Auto-didacte. 
+- [Mon site](https://jordanolivier.com)
+- En recherche d'un stage pour la période du XX au XX, [Mon CV](https://read.cv/0xabdulkhalid)
 
 <br>
 
