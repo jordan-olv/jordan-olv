@@ -38,10 +38,12 @@
 </p>	
     </td>
   <td width="50%" valign="top">
-- **Languages**:                   
+<p width="50%">	      
+	- <b>Extras</b>:                     
     
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
-   ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)      
+   ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+</p>	
     </td>
   </tr>
 </table>
