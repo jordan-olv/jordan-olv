@@ -54,7 +54,6 @@
     ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
     ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
     
-    
 - 🎛️ Application and Tools:
 
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -65,7 +64,6 @@
 </p>
 
 <br>
-<br>
 
 -----
 
@@ -75,11 +73,8 @@
 <br>
 
 <div align="center">
-
-
   <img src="https://github-readme-stats.vercel.app/api?username=jordan-olv&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="200px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jordan-olv&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="200px" alt="jordan-olv"/>
-
 </div>
 
 <br>
