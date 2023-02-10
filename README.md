@@ -8,16 +8,6 @@
 
 <br>
 
-<section data-markdown>
-  <textarea data-template>
-    # Testing 
-    <div class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
-      <div>Item 1</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
-      <div>Item 2</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
-      <div>Item 3</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
-    </div>
-  </textarea>
-</section>
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -36,7 +26,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
-<p align="center">
+
 <table>
   <tr>
     <td valign="top">
@@ -46,15 +36,17 @@
 	   ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)	    	    
     </td>
     <td valign="top">
+	    <p align="center">
 	- **Languages**:                   
 
 	   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
-	   ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)	    	    
+	   ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)	  
+	    </p>
     </td>
   </tr>
 </table>
 
-
+<p align="center">
 
 - **Languages**:                   
     
