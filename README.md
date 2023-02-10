@@ -30,10 +30,12 @@
 <table>
   <tr>
     <td valign="top">
+	        <p align="center">
 	- **Languages**:                   
 
 	   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
-	   ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)	    	    
+	   ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)	
+	    </p>
     </td>
     <td valign="top">
 	    <p align="center">
