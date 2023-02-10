@@ -26,6 +26,15 @@
 <br>
 <p style="display: inline-block;" align="center">
   <kbd>
+    <kbd>Language</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="30px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)" />
+
+	  
+  </kbd>	
+  <kbd>
     <kbd>Front-end</kbd>
     <br>
     <br>
