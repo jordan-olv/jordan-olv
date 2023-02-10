@@ -17,11 +17,10 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Développeur à en venir !
+- Actuellement en formation Développeur Web / Web Mobile et principalement Auto-didacte. 
+- Mon site [link](https://jordanolivier.com)
+- En recherche d'un stage pour la période du XX au XX, Mon cv [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
 
