@@ -70,7 +70,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jordan-olv&include_all_commits=true&count_private=true&hide_border=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="200px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jordan-olv&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="200px" alt="jordan-olv"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jordan-olv&show_icons=true&locale=en&layout=compact&line_height=20&hide_border=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="200px" alt="jordan-olv"/>
 </div>
 
 <br>
@@ -85,7 +85,7 @@
 
 
 <a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  jordan-olivier-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
 <a href="https://twitter.com/0xabdulkhalid" target="_blank">
