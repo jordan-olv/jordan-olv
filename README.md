@@ -20,7 +20,7 @@
 - Développeur à en venir !
 - Actuellement en formation Développeur Web / Web Mobile et principalement Auto-didacte. 
 - Mon site [link](https://jordanolivier.com)
-- En recherche d'un stage pour la période du XX au XX, Mon cv [my resume](https://read.cv/0xabdulkhalid)
+- En recherche d'un stage pour la période du XX au XX, [Mon CV](https://read.cv/0xabdulkhalid)
 
 <br><br>
 
@@ -44,6 +44,7 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 <br>
 
