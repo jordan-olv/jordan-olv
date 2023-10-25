@@ -11,9 +11,8 @@
 
 <br>
 
-- Développeur à en venir !
-- Actuellement en formation Développeur Web / Web Mobile et principalement Auto-didacte. 
-- En recherche d'un stage pour la période du XX au XX
+- Développeur Fullstack en alternance
+- Actuellement en 3ème année en master chez Ynov Campus 
 - [Mon site](https://jordanolivier.com) / [Mon CV](https://jordanolivier.com)
 
 <br>
